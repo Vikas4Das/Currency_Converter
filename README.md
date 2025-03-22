@@ -1,7 +1,5 @@
 # Currency Converter
 
-![Currency Converter](https://vikas4das.github.io/Currency_Converter/your-image.jpg)
-
 A simple and user-friendly **Currency Converter** web application that allows users to convert currency values in real time using live exchange rates.
 
 ## 🚀 Live Demo
